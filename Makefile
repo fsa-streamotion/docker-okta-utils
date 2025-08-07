@@ -1,6 +1,6 @@
 IMAGE_NAME ?= kayosportsau/okta-utils
 
-RELEASE_VERSION = 3.0.1
+RELEASE_VERSION = 4.0.0
 BUILD_VERSION ?= testing
 
 ifdef CI_COMMIT_REF_NAME
